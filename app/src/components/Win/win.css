@@ -1,0 +1,16 @@
+.win {
+    width: 430px;
+    height: 430px;
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+
+    background-color: #19ABB5;
+}
+
+.win_text {
+    font-size: 40px;
+    color: deeppink;
+}

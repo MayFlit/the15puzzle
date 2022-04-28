@@ -1,0 +1,10 @@
+.game {
+    width: 430px;
+    height: 430px;
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+    background-color: #19ABB5;
+}
